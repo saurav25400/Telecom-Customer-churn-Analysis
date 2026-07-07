@@ -8,7 +8,7 @@ The project combines **Python, SQL, and Power BI** to perform end-to-end data an
 
 ---
 This project analyzes historical telecom customer data to identify the key factors influencing customer churn and uncover actionable insights that can help improve customer retention.
-<img width="2836" height="1589" alt="DashBoard_ScreenShot" src="https://res.cloudinary.com/doqxmemfg/image/upload/v1783415591/Cutomer_churn_analysis_dashboard_s5dm6y.png"/>
+<img width="2836" height="1589" alt="DashBoard_ScreenShot" src="https://res.cloudinary.com/doqxmemfg/image/upload/v1783434941/Telecom_Churn_Dashboard_yo3ufj.png"/>
 
 
 
